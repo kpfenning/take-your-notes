@@ -1,9 +1,8 @@
-{
-    "notes": [
-        {
-            "title":"Test Title",
-            "text":"Test text"
-        }
-    ]
-}
+[
+    {
+        "title": "Homework",
+        "text": "Do your homework!",
+        "id": ""
+    }
+]
 
